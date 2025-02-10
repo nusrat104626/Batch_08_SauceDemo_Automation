@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3830","Login with valid information","","Fri Feb 07 02:26:42 BDT 2025","passed","Fri Feb 07 02:26:46 BDT 2025","","Swag labs Site search","",""
+"","73","Verify The Error Message","","Fri Feb 07 02:26:46 BDT 2025","passed","Fri Feb 07 02:26:46 BDT 2025","","Swag labs Site search","",""
